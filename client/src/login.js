@@ -41,7 +41,7 @@ function Login({ onLogin }) {
       <input placeholder="Email" value={email} onChange={e => setEmail(e.target.value)} />
       <input placeholder="Password" type="password" value={password} onChange={e => setPassword(e.target.value)} />
       <br />
-      <button onClick={login}>🔐 Login</button>
+      <button onClick={login}>🔐 Logan paul</button>
       <button onClick={signup}>🆕 Sign Up</button>
       <button onClick={HandleGoogleLogin}>🔐 Sign in with Google</button>
     </div>
