@@ -34,7 +34,7 @@ function App(){
          </div>
 
           </> ):
-          (<Navigate to = "/logan" />)
+          (<Navigate to = "/login" />)
         }
         />
       
